@@ -1,0 +1,7 @@
+data:
+  raw_data_path: "data/raw/disk_data.csv"
+  processed_data_path: "data/processed/processed_data.csv"
+model:
+  model_path: "models/model.pkl"
+  test_size: 0.2
+  random_state: 42
